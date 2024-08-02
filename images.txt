@@ -4,3 +4,8 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+btpanel/baota
+xijinping615/xi-jinping-tts
+majiajue/aipan-netdisk-search
+ahagwybwqs/aipan-netdisk-search
+laxlerbo/aipan-netdisk-search

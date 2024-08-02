@@ -1,1 +1,2 @@
-majiajue/aipan-netdisk-search
+majiajue/aipan-netdisk-search:latest
+ahagwybwqs/aipan-netdisk-search:latest

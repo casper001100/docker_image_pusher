@@ -1,1 +1,1 @@
-majiajue/aipan-netdisk-search:20240712
+majiajue/aipan-netdisk-search

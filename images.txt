@@ -1,2 +1,2 @@
 youshandefeiyang/ysptp
-vcmvijay/m3umission:latest
+vcmvijay/m3umission

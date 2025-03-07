@@ -3,5 +3,5 @@ foamzou/melody
 youshandefeiyang/allinone
 containrrr/watchtower
 orangbus/iptv
-
+doubebly/doube-itv:latest
 

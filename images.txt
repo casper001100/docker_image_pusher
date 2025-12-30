@@ -1,4 +1,4 @@
 doubebly/doube-itv:latest
-mysql:latest
+library/mysql:latest
 redis:8.0
 

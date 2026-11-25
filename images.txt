@@ -1,4 +1,2 @@
-library/mysql:latest
-redis:8.0
 gdy666/lucky
 

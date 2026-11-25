@@ -1,1 +1,1 @@
-gdy666/lucky
+headscale/headscale:latest
